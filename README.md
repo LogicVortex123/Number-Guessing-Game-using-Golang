@@ -25,12 +25,12 @@ This project demonstrates basic Go programming concepts such as loops, condition
 
 1. Clone the repository:
 
-git clone <your-repo-link>
+git clone https://github.com/LogicVortex123/Number-Guessing-Game-using-Golang
 
 
 2. Navigate into the project folder:
 
-cd number-guessing-game
+cd Golang-Number-Guessing-Game
 
 
 3. Run the game using Go:
