@@ -35,7 +35,7 @@ cd Golang-Number-Guessing-Game
 
 3. Run the game using Go:
 
-go run main.go
+go run game.go
 
 
 4. Follow the on-screen instructions to guess the number!
